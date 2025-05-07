@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/EncryptArx/encryptarx-website/blob/main/src/assets/logo.png" alt="EncryptArx Logo" width="120" />
-  <h1>🔐 EncryptArx</h1>
+  <h1.EncryptArx</h1>
   <p><em>Your digital defense partner — where <strong>Security</strong>, <strong>Intelligence</strong> & <strong>Innovation</strong> converge.</em></p>
 
   <!-- Social & Contact Badges -->
@@ -9,7 +9,7 @@
       <img alt="Website" src="https://img.shields.io/badge/Website-EncryptArx-0A192F?logo=Google-Chrome&logoColor=white" />
     </a>
     <a href="mailto:support@encryptarx.in">
-      <img alt="Email" src="https://img.shields.io/badge/Email-support@encryptarx.in-D14836?logo=gmail&logoColor=white" />
+      <img alt="Email" src="https://img.shields.io/badge/contact@encryptarx.in-D14836?logo=gmail&logoColor=white" />
     </a>
     <a href="https://linkedin.com/company/encryptarx">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-EncryptArx-0077B5?logo=linkedin&logoColor=white" />
