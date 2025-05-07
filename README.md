@@ -38,27 +38,12 @@ Our mission is to integrate **Security**, **Intelligence**, and **Innovation** i
 
 ## 💼 Services
 
-- 🔐 **Cybersecurity Services**
-  - VAPT (Web, Mobile, Network, API)
-  - Red Team/Blue Team Assessments
-  - Threat Modeling & Risk Analysis
-
-- 🧠 **AI/ML & Data Solutions**
-  - Predictive Analytics & Forecasting
-  - ML Model Deployment & Automation
-  - Natural Language Processing (NLP)
-
-- ⛓️ **Web3 & Blockchain**
-  - Smart Contract Development & Audits
-  - DApp Development (Ethereum, Solana)
-  - Tokenomics & Blockchain Integration
-
-- 🛠️ **Development & Engineering**
-  - Custom Web & Mobile App Development
-  - DevOps, CI/CD, Cloud-Native Engineering
-  - Dashboarding, Data Lakes, ETL Pipelines
-
+- 🔐 **Cybersecurity:** VAPT, Red/Blue Team, Threat Modeling  
+- 🧠 **AI/ML & Data:** Predictive Analytics, ML Ops, NLP  
+- ⛓️ **Web3 & Blockchain:** Smart Contracts, DApps, Tokenomics  
+- 🛠️ **Dev & Cloud:** Web/Mobile Apps, DevOps, Data Engineering
 ---
+
 
 ## 🔥 Core Pillars & Technologies
 
