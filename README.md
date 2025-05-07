@@ -3,10 +3,13 @@
   <h1>🔐 EncryptArx</h1>
   <p><em>Your digital defense partner — where <strong>Security</strong>, <strong>Intelligence</strong> & <strong>Innovation</strong> converge.</em></p>
 
-  <!-- Social Badges -->
+  <!-- Social & Contact Badges -->
   <p>
     <a href="https://www.encryptarx.in/">
       <img alt="Website" src="https://img.shields.io/badge/Website-EncryptArx-0A192F?logo=Google-Chrome&logoColor=white" />
+    </a>
+    <a href="mailto:support@encryptarx.in">
+      <img alt="Email" src="https://img.shields.io/badge/Email-support@encryptarx.in-D14836?logo=gmail&logoColor=white" />
     </a>
     <a href="https://linkedin.com/company/encryptarx">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-EncryptArx-0077B5?logo=linkedin&logoColor=white" />
@@ -17,8 +20,12 @@
     <a href="https://x.com/encryptarxx">
       <img alt="X (Twitter)" src="https://img.shields.io/badge/X-@encryptarxx-000000?logo=twitter&logoColor=white" />
     </a>
+    <span>
+      <img alt="Global" src="https://img.shields.io/badge/Location-Global%20%2F%20Remote-4AB857?logo=earth&logoColor=white" />
+    </span>
   </p>
 </div>
+
 
 ---
 
@@ -64,12 +71,3 @@ Our mission is to integrate **Security**, **Intelligence**, and **Innovation** i
 </div>
 
 ---
-
-## 📞 Contact
-
-- 🌐 Website: [encryptarx.in](https://www.encryptarx.in/)
-- ✉️ Email: [support@encryptarx.in](mailto:support@encryptarx.in)
-- 🌍 Location: Wherever the Internet reaches (Global / Remote)
-
----
-
