@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/EncryptArx/encryptarx-website/blob/main/public/logo512.png" alt="EncryptArx Logo" width="120" />
+  <img src="https://drive.google.com/file/d/1WlzuqG6gs43-j7S0VhQGYzLLsONn0K8f/view?usp=drivesdk" alt="EncryptArx Logo" width="120" />
   <h1>EncryptArx</h1>
   <p><em>Your digital defense partner — where <strong>Security</strong>, <strong>Intelligence</strong> & <strong>Innovation</strong> converge.</em></p>
 
