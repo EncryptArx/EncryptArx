@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/EncryptArx/encryptarx-website/blob/main/src/assets/logo.png" alt="EncryptArx Logo" width="120" />
-  <h1.EncryptArx</h1>
+  <h1>EncryptArx</h1>
   <p><em>Your digital defense partner — where <strong>Security</strong>, <strong>Intelligence</strong> & <strong>Innovation</strong> converge.</em></p>
 
   <!-- Social & Contact Badges -->
